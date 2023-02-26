@@ -1,0 +1,7 @@
+{
+  "name": "skytracker",
+  "creator": "carreb",
+  "description": "tracks various skyblock stats and uploads them to a central database to be accessed via an api.",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
